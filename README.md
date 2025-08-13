@@ -1,2 +1,2 @@
-# turkishfilmreviews
-turkish film reviews analysis with lstm model
+# turkishproductreviews
+turkish product reviews analysis with lstm model
